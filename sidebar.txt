@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[upv:home|Door43 (upv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-upv|d43-upv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-upv/archive/master.zip|d43-upv.zip]]
+
+**Recent Changes**
+{{changes>ns = upv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/upv|Ethnologue data]]
+
